@@ -8,7 +8,10 @@
 
         - I like solving problems and knowing that what I do for a living is impactful in a positive way for everyone
    
-3. Who is the audience for my professional statement (e.g., cybersecurity recruiters, specific organizations, government employers, etc.)?
-                This statement is aimed toward cybersecurity recruiters in order to join the workforce in my near future.  
-4. In what ways can my strengths, values, and interest in cybersecurity support the security goals of various organizations?
-                I am willing to learn everything i need to know to excel in this field and would like to bring the most to a team setting to prevent, identify, and remove threat actors and vulnerabilities.  
+2. Who is the audience for my professional statement (e.g., cybersecurity recruiters, specific organizations, government employers, etc.)?
+
+        - This statement is aimed toward cybersecurity recruiters in order to join the workforce in my near future.
+
+5. In what ways can my strengths, values, and interest in cybersecurity support the security goals of various organizations?
+
+        - I am willing to learn everything i need to know to excel in this field and would like to bring the most to a team setting to prevent, identify, and remove threat actors and vulnerabilities.  
