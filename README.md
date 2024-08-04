@@ -10,7 +10,7 @@
    
 2. Who is the audience for my professional statement (e.g., cybersecurity recruiters, specific organizations, government employers, etc.)?
 
-         This statement is aimed toward cybersecurity recruiters in order to join the workforce in my near future.
+    - This statement is aimed toward cybersecurity recruiters in order to join the workforce in my near future.
 
 5. In what ways can my strengths, values, and interest in cybersecurity support the security goals of various organizations?
 
