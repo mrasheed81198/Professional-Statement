@@ -5,8 +5,8 @@
 **Values** - Protecting valuable information for the interests of the company and the user, making sure that users are comfortable with the security of their information and companies are confident in their service and security  
 **Clarifying Questions** -   
 1. What most interests me about cybersecurity?
-        - I like solving problems and knowing that what I do for a living is impactful in a positive way for everyone  
+                I like solving problems and knowing that what I do for a living is impactful in a positive way for everyone  
 2. Who is the audience for my professional statement (e.g., cybersecurity recruiters, specific organizations, government employers, etc.)?
-        - This statement is aimed toward cybersecurity recruiters in order to join the workforce in my near future.  
+                This statement is aimed toward cybersecurity recruiters in order to join the workforce in my near future.  
 4. In what ways can my strengths, values, and interest in cybersecurity support the security goals of various organizations?
-        - I am willing to learn everything i need to know to excel in this field and would like to bring the most to a team setting to prevent, identify, and remove threat actors and vulnerabilities.  
+                I am willing to learn everything i need to know to excel in this field and would like to bring the most to a team setting to prevent, identify, and remove threat actors and vulnerabilities.  
