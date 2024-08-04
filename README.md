@@ -6,7 +6,7 @@
 **Clarifying Questions** -   
 1. What most interests me about cybersecurity?
 
-         I like solving problems and knowing that what I do for a living is impactful in a positive way for everyone
+  - I like solving problems and knowing that what I do for a living is impactful in a positive way for everyone
    
 2. Who is the audience for my professional statement (e.g., cybersecurity recruiters, specific organizations, government employers, etc.)?
 
